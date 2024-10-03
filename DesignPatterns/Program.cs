@@ -7,7 +7,8 @@ class Program
     {
         Dictionary<string, IPatternExample> examples = new()
         {
-            {"Factory", new FactoryExample()}
+            {"Factory", new FactoryExample()},
+            {"Decorator", new DecoratorExample()},
         };
 
         while (true)
