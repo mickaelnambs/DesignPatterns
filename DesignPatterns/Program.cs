@@ -11,7 +11,8 @@ class Program
             {"Decorator", new DecoratorExample()},
             {"Builder", new BuilderExample()},
             {"Prototype", new PrototypeExample()},
-            {"Bridge", new BridgeExample() }
+            {"Bridge", new BridgeExample() },
+            {"Adapter", new AdapterExample()}
         };
 
         while (true)
