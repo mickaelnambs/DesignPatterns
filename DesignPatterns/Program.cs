@@ -10,7 +10,8 @@ class Program
             {"Factory", new FactoryExample()},
             {"Decorator", new DecoratorExample()},
             {"Builder", new BuilderExample()},
-            {"Prototype", new PrototypeExample()}
+            {"Prototype", new PrototypeExample()},
+            {"Bridge", new BridgeExample() }
         };
 
         while (true)
